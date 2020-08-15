@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Reflection Bot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Reflection_Bot_jar</output-path>
+    <root id="archive" name="Reflection Bot.jar">
+      <element id="module-output" name="Reflection Bot" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../asm-7.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../gson-2.8.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,442 @@
+[
+  {
+    "hook": "CLASS_MAIN",
+    "value": "dc",
+    "description": null
+  },
+  {
+    "hook": "METHOD_MAIN",
+    "value": "main",
+    "description": null
+  },
+  {
+    "hook": "FIELD_MAIN_INSTANCE",
+    "value": "c",
+    "description": null
+  },
+  {
+    "hook": "CLASS_GAME_RENDER",
+    "value": "H",
+    "description": null
+  },
+  {
+    "hook": "FIELD_MOUSE_X",
+    "value": "f",
+    "description": null
+  },
+  {
+    "hook": "FIELD_MOUSE_Y",
+    "value": "L",
+    "description": null
+  },
+  {
+    "hook": "CLASS_CLIENT",
+    "value": "K",
+    "description": null
+  },
+  {
+    "hook": "FIELD_CLIENT_INSTANCE",
+    "value": "gG",
+    "description": null
+  },
+  {
+    "hook": "CLASS_ENTITY",
+    "value": "cL",
+    "description": null
+  },
+  {
+    "hook": "FIELD_ENTITY_ANIMATION",
+    "value": "W",
+    "description": null
+  },
+  {
+    "hook": "FIELD_ENTITY_HEIGHT",
+    "value": "ao",
+    "description": null
+  },
+  {
+    "hook": "FIELD_X_CAMERA_POS",
+    "value": "iv",
+    "description": null
+  },
+  {
+    "hook": "FIELD_Z_CAMERA_POS",
+    "value": "gB",
+    "description": null
+  },
+  {
+    "hook": "FIELD_Y_CAMERA_POS",
+    "value": "gy",
+    "description": null
+  },
+  {
+    "hook": "FIELD_CAMERA_YAW",
+    "value": "eQ",
+    "description": null
+  },
+  {
+    "hook": "FIELD_CAMERA_PITCH",
+    "value": "gW",
+    "description": null
+  },
+  {
+    "hook": "FIELD_TILE_OFFSETS",
+    "value": "ba",
+    "description": null
+  },
+  {
+    "hook": "FIELD_SCENE_FLAGS",
+    "value": "aM",
+    "description": null
+  },
+  {
+    "hook": "FIELD_GROUND_ITEMS_ARRAY",
+    "value": "al",
+    "description": null
+  },
+  {
+    "hook": "CLASS_DEQUE",
+    "value": "dd",
+    "description": null
+  },
+  {
+    "hook": "FIELD_DEQUE_CURRENT_NODE",
+    "value": "a",
+    "description": null
+  },
+  {
+    "hook": "CLASS_NODE",
+    "value": "cz",
+    "description": null
+  },
+  {
+    "hook": "FIELD_NODE_NEXT",
+    "value": "d",
+    "description": null
+  },
+  {
+    "hook": "CLASS_PLAYER",
+    "value": "c6",
+    "description": null
+  },
+  {
+    "hook": "CLASS_NPC",
+    "value": "cQ",
+    "description": null
+  },
+  {
+    "hook": "CLASS_NPC_DEFINITION",
+    "value": "ce",
+    "description": null
+  },
+  {
+    "hook": "FIELD_MOB_DEF",
+    "value": "g",
+    "description": null
+  },
+  {
+    "hook": "FIELD_NPC_ID",
+    "value": "p",
+    "description": null
+  },
+  {
+    "hook": "FIELD_NPC_NAME",
+    "value": "u",
+    "description": null
+  },
+  {
+    "hook": "FIELD_PLAYER_ARRAY",
+    "value": "fj",
+    "description": null
+  },
+  {
+    "hook": "FIELD_PLAYER_INSTANCE",
+    "value": "d7",
+    "description": null
+  },
+  {
+    "hook": "FIELD_NPC_ARRAY",
+    "value": "bI",
+    "description": null
+  },
+  {
+    "hook": "CLASS_ITEM",
+    "value": "c2",
+    "description": null
+  },
+  {
+    "hook": "FIELD_GROUND_ITEM_ID",
+    "value": "b",
+    "description": null
+  },
+  {
+    "hook": "FIELD_GROUND_ITEM_AMOUNT",
+    "value": "c",
+    "description": null
+  },
+  {
+    "hook": "CLASS_RS_INTERFACE",
+    "value": "w",
+    "description": null
+  },
+  {
+    "hook": "FIELD_RS_INTERFACES_ARRAY",
+    "value": "v",
+    "description": null
+  },
+  {
+    "hook": "FIELD_RS_INTERFACE_INVENTORY",
+    "value": "af",
+    "description": null
+  },
+  {
+    "hook": "METHOD_NODE_UNLINK",
+    "value": "a",
+    "description": null
+  },
+  {
+    "hook": "FIELD_RIGHT_CLICK_MENU_DEQUE",
+    "value": "a",
+    "description": null
+  },
+  {
+    "hook": "CLASS_MENU_NODE",
+    "value": "c_",
+    "description": null
+  },
+  {
+    "hook": "METHOD_DEQUE_GET_FIRST",
+    "value": "f",
+    "description": null
+  },
+  {
+    "hook": "METHOD_DEQUE_GET_NEXT",
+    "value": "d",
+    "description": null
+  },
+  {
+    "hook": "FIELD_IS_LOGGED_IN",
+    "value": "c6",
+    "description": null
+  },
+  {
+    "hook": "FIELD_PLAYER_RIGHTS",
+    "value": "c8",
+    "description": null
+  },
+  {
+    "hook": "FIELD_PLAYER_PASSWORD",
+    "value": "h_",
+    "description": null
+  },
+  {
+    "hook": "FIELD_PLAYER_USERNAME",
+    "value": "iC",
+    "description": null
+  },
+  {
+    "hook": "FIELD_Y_MENU_OFFSET",
+    "value": "dV",
+    "description": null
+  },
+  {
+    "hook": "FIELD_INTERFACE_ID_OPEN",
+    "value": "cS",
+    "description": null
+  },
+  {
+    "hook": "FIELD_ENTITY_X",
+    "value": "Q",
+    "description": null
+  },
+  {
+    "hook": "FIELD_ENTITY_Y",
+    "value": "v",
+    "description": null
+  },
+  {
+    "hook": "FIELD_INTERACTING_ENTITY",
+    "value": "ag",
+    "description": null
+  },
+  {
+    "hook": "FIELD_BASE_X",
+    "value": "dk",
+    "description": null
+  },
+  {
+    "hook": "FIELD_BASE_Y",
+    "value": "g_",
+    "description": null
+  },
+  {
+    "hook": "FIELD_SKILL_STAT_ARRAY",
+    "value": "ah",
+    "description": null
+  },
+  {
+    "hook": "FIELD_PLANE",
+    "value": "x",
+    "description": null
+  },
+  {
+    "hook": "FIELD_PLAYER_INDEX",
+    "value": "hu",
+    "description": null
+  },
+  {
+    "hook": "CLASS_RIGHT_MENU",
+    "value": "eR",
+    "description": null
+  },
+  {
+    "hook": "FIELD_HAS_MENU_OPEN",
+    "value": "c",
+    "description": null
+  },
+  {
+    "hook": "METHOD_KEY_PRESSED",
+    "value": "keyPressed",
+    "description": null
+  },
+  {
+    "hook": "METHOD_KEY_RELEASED",
+    "value": "keyReleased",
+    "description": null
+  },
+  {
+    "hook": "METHOD_MOUSE_WHEEL_MOVED",
+    "value": "mouseWheelMoved",
+    "description": null
+  },
+  {
+    "hook": "METHOD_MOUSE_PRESSED",
+    "value": "mousePressed",
+    "description": null
+  },
+  {
+    "hook": "METHOD_MOUSE_RELEASED",
+    "value": "mouseReleased",
+    "description": null
+  },
+  {
+    "hook": "FIELD_ENTITY_CURRENT_HEALTH",
+    "value": "Y",
+    "description": null
+  },
+  {
+    "hook": "FIELD_SKILL_XP_ARRAY",
+    "value": "dd",
+    "description": null
+  },
+  {
+    "hook": "FIELD_MENU_ACTION_ROW",
+    "value": "d",
+    "description": null
+  },
+  {
+    "hook": "FIELD_X_MENU_OFFSET",
+    "value": "gf",
+    "description": null
+  },
+  {
+    "hook": "FIELD_MENU_WIDTH",
+    "value": "dY",
+    "description": null
+  },
+  {
+    "hook": "FIELD_MENU_HEIGHT",
+    "value": "fJ",
+    "description": null
+  },
+  {
+    "hook": "METHOD_REVERSE_GET_FIRST",
+    "value": "f",
+    "description": null
+  },
+  {
+    "hook": "FIELD_MENU_NODE_NAME",
+    "value": "d",
+    "description": null
+  },
+  {
+    "hook": "FIELD_EXTRA_MENU_NODE_NAME",
+    "value": "f",
+    "description": null
+  },
+  {
+    "hook": "FIELD_LOOP_CYCLE_STATUS",
+    "value": "b",
+    "description": null
+  },
+  {
+    "hook": "FIELD_LOOP_CYCLE",
+    "value": "eV",
+    "description": null
+  },
+  {
+    "hook": "FIELD_CLIENT_ZOOM",
+    "value": "r",
+    "description": null
+  },
+  {
+    "hook": "CLASS_CLIENT_DETAILS",
+    "value": "ch",
+    "description": null
+  },
+  {
+    "hook": "FIELD_SCENE",
+    "value": "gb",
+    "description": null
+  },
+  {
+    "hook": "FIELD_SCENE_TILES",
+    "value": "d",
+    "description": null
+  },
+  {
+    "hook": "CLASS_SCENE_TILE",
+    "value": "dC",
+    "description": null
+  },
+  {
+    "hook": "FIELD_OBJECT_HASH",
+    "value": "m",
+    "description": null
+  },
+  {
+    "hook": "FIELD_SCENE_OBJECT_TILE",
+    "value": "x",
+    "description": null
+  },
+  {
+    "hook": "FIELD_OBJECT_X",
+    "value": "k",
+    "description": null
+  },
+  {
+    "hook": "FIELD_OBJECT_Y",
+    "value": "c",
+    "description": null
+  },
+  {
+    "hook": "FIELD_MINIMAP_ROTATION_VIEW",
+    "value": "is",
+    "description": null
+  },
+  {
+    "hook": "FIELD_MINIMAP_ROTATION",
+    "value": "h2",
+    "description": null
+  },
+  {
+    "hook": "FIELD_MINIMAP_ZOOM",
+    "value": "gk",
+    "description": null
+  },
+  {
+    "hook": "FIELD_DIALOG_OPEN_ID",
+    "value": "fZ",
+    "description": null
+  }
+]
